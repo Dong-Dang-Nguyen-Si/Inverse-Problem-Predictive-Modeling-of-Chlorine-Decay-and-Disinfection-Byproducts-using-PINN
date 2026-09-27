@@ -1,0 +1,6 @@
+{
+  "name": "PINN Water Quality Simulator - Chlorine & THM",
+  "description": "Simulation of Chlorine decay and Trihalomethane (THM) formation in water distribution networks using Physics-Informed Neural Networks (PINN) with customizable boundary parameters, seasonal scenarios, and interactive mouse-hover (x,y) crosshair plots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
